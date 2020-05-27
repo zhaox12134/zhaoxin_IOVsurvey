@@ -1,0 +1,16 @@
+*Efﬁcient Distributed Admission and Revocation using Blockchain for Cooperative ITS
+SaFe: A Blockchain and Secure Element Based Framework for Safeguarding Smart Vehicles
+
+Autonomous vehicles and blockchain technology are shaping the future of transportation
+
+Blockchain technology in smart city: A new opportunity for smart environment and smart mobility
+
+Zone Keys Trust Management in Vehicular Networks based on Blockchain
+
+（没啥用）Block-VN: A distributed Blockchain based vehicular network architecture in smart city.
+
+Towards blockchain-based intelligent transportation systems
+
+Blockchain-based dynamic key management for heterogeneous intelligent transportation systems
+
+(自动驾驶)Distributed Priority Based Management of Road Intersections Using Blockchain
