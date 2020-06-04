@@ -33,22 +33,15 @@ Trusted vehicle telematics using blockchain data analytics
 （无基础设施，集群分层，）Blockchain: A distributed solution to automotive security and privacy
 （应用）Blockchain-inspired event recording system for autonomous vehicles
 
+DrivMan: Driving trust management and data sharing in VANETS with blockchain and smart contracts
+
 *******************************************trustness,security******************************************
-(lxt.1.2.4)Block chain Based Security Mechanism for Internet of Vehicles
 
 Blockchain-Based Secure and Trustworthy Internet of Things in SDN-Enabled 5G-VANETs
-
-(密码学）Hybrid cryptographic protocol for secure vehicle data sharing over a consortium blockchain
 
 *Blockchain-based dynamic key management for heterogeneous intelligent transportation systems
 
 Bars: a blockchain-based anonymous reputation system for trust management in vanets
-
-BlockAPP: Using Blockchain for Authentication and Privacy Preservation in IoV
-
-DrivMan: Driving trust management and data sharing in VANETS with blockchain and smart contracts
-
-Trust bit: Reward-based intelligent vehicle commination using blockchain paper
 
 *10.A blockchain-based reputation system for data credibility assessment in vehicular networks
 11 (引用上面,使用假名，hybrid架构,不是bc！！)RSMA: Reputation System-Based Lightweight Message Authentication Framework and Protocol for 5G-Enabled Vehicular Networks
@@ -60,40 +53,61 @@ A privacy-preserving trust model based on blockchain for VANETS
 （k-anonymity,假名，保密）Blockchain Enabled Trust-Based Location Privacy Protection Scheme in VANET
 
 *Blockchain-based decentralized trust management in vehicular networks
-* Incentivizing Secure Block Verification by Contract Theory in Blockchain-Enabled Vehicular Networks
 
-A blockchain-based certificateless public key signature scheme for vehicle-to-infrastructure communication in VANETs
+*Toward Secure Blockchain-Enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory
+(找不到论文)A blockchain-based certificateless public key signature scheme for vehicle-to-infrastructure communication in VANETs
 
 
 
-*******************************************privacy***********************************************
+*******************************************privacy，secure***********************************************
+
+(假名和非对称密钥)BlockAPP: Using Blockchain for Authentication and Privacy Preservation in IoV
+
+(密钥，签名）Hybrid cryptographic protocol for secure vehicle data sharing over a consortium blockchain
+
+(lxt.1.2.4，非对称密钥)Block chain Based Security Mechanism for Internet of Vehicles
+
 (一个survey，79702)Privacy management in social internet of vehicles: Review, challenges and blockchain based solutions
 A privacy-preserving trust model based on blockchain for VANETS
 
-(good)SpeedyChain: A framework for decoupling data from blockchain for smart cities
+(good，隐私，效率)SpeedyChain: A framework for decoupling data from blockchain for smart cities
 
-Towards a Privacy-Preserving Way of Vehicle Data Sharing–A Case for Blockchain Technology?
+(找不到)Towards a Privacy-Preserving Way of Vehicle Data Sharing–A Case for Blockchain Technology?
 
-A remote attestation security model based on privacy-preserving blockchain for V2X
+（identity authentication ）A remote attestation security model based on privacy-preserving blockchain for V2X
 
-Blockchain based secured identity authentication and expeditious revocation framework for vehicular networks
-
-CreditCoin: A Privacy-Preserving Blockchain-Based Incentive Announcement Network for Communications of Smart Vehicles
+（ring-based signatures ）Secure blockchain-based communication scheme for connected vehicles
 
 
+（典型）Blockchain based secured identity authentication and expeditious revocation framework for vehicular networks
+
+(多人签名，环签名，类似于混杂，Combined-Public Keys)CreditCoin: A Privacy-Preserving Blockchain-Based Incentive Announcement Network for Communications of Smart Vehicles
+
+
+(多人签名)Blockchain based secure data sharing system for Internet of vehicles: A position paper
 
 *******************************************efficient********************************************
-（引用RSMA，鼓励上传，提高效率，隐私）An Efficient Collaboration and Incentive Mechanism for Internet of Vehicles (IoV) With Secured Information Exchange Based on Blockchains
+（对分享信息的车辆奖励）Trust bit: Reward-based intelligent vehicle commination using blockchain paper
+Introduce reward-based intelligent vehicles communication using blockchain
+
+（引用RSMA，鼓励上传，通过调度降低延迟，隐私）An Efficient Collaboration and Incentive Mechanism for Internet of Vehicles (IoV) With Secured Information Exchange Based on Blockchains
+
+*(secure:Block Veriﬁcation Collusion, efficient: DPOS，和Toward Secure Blockchain-Enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory重复) Incentivizing Secure Block Verification by Contract Theory in Blockchain-Enabled Vehicular Networks
 
 Efficient and privacy-preserving carpooling using blockchain-assisted vehicular fog computing
+
 A security architecture of VANET based on blockchain and mobile edge computing
 
-（分层，效率）MBID: Micro-blockchain-based geographical dynamic intrusion detection for V2X
+(cluster-based，联盟链)Blackchain: Scalability for resource-constrained accountable vehicle-to-x communication
+
+（分层，效率,  安全，数据提供者的报酬）MBID: Micro-blockchain-based geographical dynamic intrusion detection for V2X
 
 Blockchain for secure and efficient data sharing in vehicular edge computing and networks
 
 *（有必要时才提交）Block4forensic: An integrated lightweight blockchain framework for forensics applications of connected vehicles
 *（集群，联盟链思想）BlockChain: A Distributed Solution to Automotive Security and Privacy.
+
+（深度学习加强效率）Deep Reinforcement Learning Based Performance Optimization in Blockchain-Enabled Internet of Vehicle
 
 
 
